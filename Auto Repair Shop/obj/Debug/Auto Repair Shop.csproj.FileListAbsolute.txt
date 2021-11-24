@@ -1,0 +1,10 @@
+C:\Users\Al\OneDrive\Desktop\C# .Net - Projects\Auto Repair Shop\Auto Repair Shop\bin\Debug\Auto Repair Shop.exe.config
+C:\Users\Al\OneDrive\Desktop\C# .Net - Projects\Auto Repair Shop\Auto Repair Shop\bin\Debug\Auto Repair Shop.exe
+C:\Users\Al\OneDrive\Desktop\C# .Net - Projects\Auto Repair Shop\Auto Repair Shop\bin\Debug\Auto Repair Shop.pdb
+C:\Users\Al\OneDrive\Desktop\C# .Net - Projects\Auto Repair Shop\Auto Repair Shop\obj\Debug\Auto Repair Shop.csprojAssemblyReference.cache
+C:\Users\Al\OneDrive\Desktop\C# .Net - Projects\Auto Repair Shop\Auto Repair Shop\obj\Debug\Auto_Repair_Shop.frmMain.resources
+C:\Users\Al\OneDrive\Desktop\C# .Net - Projects\Auto Repair Shop\Auto Repair Shop\obj\Debug\Auto_Repair_Shop.Properties.Resources.resources
+C:\Users\Al\OneDrive\Desktop\C# .Net - Projects\Auto Repair Shop\Auto Repair Shop\obj\Debug\Auto Repair Shop.csproj.GenerateResource.cache
+C:\Users\Al\OneDrive\Desktop\C# .Net - Projects\Auto Repair Shop\Auto Repair Shop\obj\Debug\Auto Repair Shop.csproj.CoreCompileInputs.cache
+C:\Users\Al\OneDrive\Desktop\C# .Net - Projects\Auto Repair Shop\Auto Repair Shop\obj\Debug\Auto Repair Shop.exe
+C:\Users\Al\OneDrive\Desktop\C# .Net - Projects\Auto Repair Shop\Auto Repair Shop\obj\Debug\Auto Repair Shop.pdb
